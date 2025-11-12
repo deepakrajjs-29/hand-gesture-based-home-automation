@@ -11,7 +11,7 @@
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [How It Works](#-how-it-works) • [Gestures](#-gesture-controls)
 
-</div>
+</div> 
 
 ---
 
