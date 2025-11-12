@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg) 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
