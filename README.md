@@ -9,7 +9,7 @@
 
 **Control your devices with simple hand gestures! 👋**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [How It Works](#-how-it-works) • [Gestures](#-gesture-controls)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [How It Works](#-how-it-works) • [Gestures](#-gesture-controls) 
 
 </div> 
 
