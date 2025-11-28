@@ -1,6 +1,6 @@
 # 🤚 Hand Gesture Control System
 
-<div align="center">
+<div align="center"> 
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg) 
