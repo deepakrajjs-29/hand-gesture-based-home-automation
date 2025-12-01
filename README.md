@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Hand Gesture Control System
+# 🌟 Hand Gesture Control System 
 
 ### *Control Your World with a Wave of Your Hand*
 
