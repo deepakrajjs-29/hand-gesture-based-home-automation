@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-00D9FF?style=for-the-badge&logo=google&logoColor=white)](https://mediapipe.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE) 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Real-Time+Hand+Tracking;AI-Powered+Gesture+Recognition;Control+Devices+Touchlessly;Built+with+Computer+Vision" alt="Typing SVG" />
 
